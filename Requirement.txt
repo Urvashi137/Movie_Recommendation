@@ -1,0 +1,5 @@
+Requirements Tools are:
+- streamlit
+- pandas
+- scikit-learn
+- numpy
